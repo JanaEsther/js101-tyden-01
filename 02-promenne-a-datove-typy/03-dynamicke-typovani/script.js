@@ -11,4 +11,11 @@ console.log('%c Dynamické typování ', 'background:black;color:yellow;');
 // Podle vložené hodnoty se datový typ
 // může měnit i v průběhu programu
 
+
+let name = "Rusco";
+name = 3;
+console.log(name, typeof name);
+
+
 // Datový typ zjistíme pomocí operátoru typeof
+ 3

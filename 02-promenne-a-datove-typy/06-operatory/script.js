@@ -4,6 +4,16 @@ console.log('%c Základní operátory ', 'background:black;color:yellow;');
 // základní matematické operace
 // +, -, *, /, %, **
 
+// let x;
+// x = 10 + 5;
+// x = 10 - 5;
+// x = 10 * 5;
+// x = 10 / 5;
+// x =  10 % 5; //modulo - zbytek po celočíselném dělení
+// x = 2**3;
+
+console.log(x);
+
 // Inkrementační a dekrementační operátory
 // zvětšení, zmenšení o 1
 // x++, x--
