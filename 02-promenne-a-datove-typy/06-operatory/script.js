@@ -18,13 +18,43 @@ console.log(x);
 // zvětšení, zmenšení o 1
 // x++, x--
 
+//x = 14;
+//x = x+1;
+//x++;
+//x--;
+
+
 // Operátory přiřazení
 // =
 // Zkratka pro matematické operace typu x = x + 3
 // +=, -=, *=, /=, %=, **=
+
+//x = 30;
+//x+=10;
+//x-=10;
+//x*=10;
+//x/=10;
+//x%=10;
+//x**=10;
+
 
 // Porovnávací operátory
 // == → equality operator / rovnost
 // === → identity operator / shoda (včetně datového typu)
 // !=, !==
 // >, <, >=, <=
+
+x = 10 == 2;
+
+x =3 === 2;
+x= 3 !==2;
+
+
+
+console.log(x);
+//Výraz 8
+
+//hodnota
+
+
+x = ((3+ Math.sqrt(9)) *3);
